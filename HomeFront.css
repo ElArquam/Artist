@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(19.jpg);
+    background-size: 100% 460px;
+    background-repeat: no-repeat;
+}
+#btnn{
+    margin-left: 11%;
+    color: rgb(0, 162, 255);
+    font-size: 25px;
+}
+#btne{
+    margin-left: 11%;
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+}
+#btnz{
+    margin-left: 11%;
+    color: rgb(255, 0, 149);
+    font-size: 25px;
+}
+#btna{
+    margin-left: 11%;
+    color: rgb(0, 255, 0);
+    font-size: 25px;
+}
+#btnr{
+    margin-left: 11%;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+#img{
+ border-radius: 50%;    
+ width: 180px;
+ height: 180px;
+ margin-left: 40px;
+ margin-top: 16px;
+}
+#submit{
+    margin-left: 120px;
+    color: rgb(255, 255, 255);
+}
+#form{
+    margin-left: 370px;
+}
+#hh{
+    margin-right: 530px;
+    margin-top: -150px;
+    color: rgb(61, 61, 61);
+}
+.buttonn{
+    margin-left: 240px;
+}
